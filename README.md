@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tadxss
 - 👀 I’m interested in Programming, Software Development and AI
-- 🌱 I’m currently learning MEAN and MERN Stack
+- 🌱 I’m currently learning and improving on MEAN and MERN Stack
 - 💞️ I’m looking to collaborate on Future Projects
 - 📫 How to reach me? Just send me an email at daryltadss.workemail@gmail.com
 
