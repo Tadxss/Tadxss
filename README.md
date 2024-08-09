@@ -1,6 +1,4 @@
-[![HackerRank]([https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png)](https://www.hackerrank.com/your-username](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png))
- [Profile](<https://www.hackerrank.com/your-username>)
-
+[![HackerRank](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png)]([https://www.hackerrank.com/your-username](https://www.hackerrank.com/profile/daryl_codecraft))
 
 - 👋 Hi, I’m Daryl @Tadxss
 - 👀 I’m interested in Programming, Software Development and AI
