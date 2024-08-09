@@ -1,4 +1,5 @@
-[HackerRank Profile](<https://www.hackerrank.com/your-username>)
+[![HackerRank](https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png)](https://www.hackerrank.com/your-username)
+ [Profile](<https://www.hackerrank.com/your-username>)
 
 
 - 👋 Hi, I’m Daryl @Tadxss
