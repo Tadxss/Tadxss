@@ -1,3 +1,6 @@
+[HackerRank Profile](<https://www.hackerrank.com/your-username>)
+
+
 - 👋 Hi, I’m Daryl @Tadxss
 - 👀 I’m interested in Programming, Software Development and AI
 - 🌱 I’m currently learning and improving on MEAN and MERN Stack
