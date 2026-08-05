@@ -2,6 +2,9 @@
 <h3 align="center">Full Stack Developer building with React, Next.js, Node.js & AWS</h3>
 
 <p align="center">
+  <a href="https://daryljohntadeo.space/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/daryljohntadeo">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -36,8 +39,8 @@
 
 ### 🔗 Profiles
 
+- [Portfolio](https://daryljohntadeo.space/)
 - [HackerRank](https://www.hackerrank.com/profile/daryl_codecraft)
-<!-- - [Portfolio](add-your-portfolio-url-here) -->
 
 <!---
 Tadxss/Tadxss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
