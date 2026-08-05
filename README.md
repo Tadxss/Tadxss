@@ -1,48 +1,13 @@
-<h1 align="center">Hi 👋, I'm Daryl John Tadeo</h1>
-<h3 align="center">Full Stack Developer building with React, Next.js, Node.js & AWS</h3>
+# Daryl John Tadeo
 
-<p align="center">
-  <a href="https://daryljohntadeo.space/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/daryljohntadeo">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:daryltadss.workemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/daryl_codecraft">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-</p>
+Full Stack Developer working in React, Next.js, Node.js, and AWS. 4+ years remote, shipping production applications end to end — front-end interfaces, backend architecture, and cloud infrastructure.
 
----
+Also comfortable in Angular, TypeScript, Supabase, and serverless architecture. Lately I've been folding AI-assisted tools like Claude Code and Cursor into daily development — used the way a senior engineer would, to move faster without skipping code review or cutting quality.
 
-### 👋 About Me
+Open to full stack developer roles.
 
-- 🔭 Building scalable full-stack products end to end — frontend, backend, and cloud infrastructure
-- 💻 Core stack: **React, Next.js, Node.js, AWS** — also experienced with Angular, TypeScript, and Supabase
-- 🤖 Increasingly working with AI-assisted dev tools — **Claude Code, Cursor, n8n**
-- 🌱 Currently sharpening serverless architecture and CI/CD practices
-- 💞️ Open to collaborating on interesting full-stack or AI-assisted projects
-- 📫 Reach me at **daryltadss.workemail@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,nodejs,express,mongodb,postgres,aws,git,github" />
-</p>
-
----
-
-### 🔗 Profiles
-
-- [Portfolio](https://daryljohntadeo.space/)
-- [HackerRank](https://www.hackerrank.com/profile/daryl_codecraft)
+[Portfolio](https://daryljohntadeo.space/) · [LinkedIn](https://linkedin.com/in/daryljohntadeo) · [HackerRank](https://www.hackerrank.com/profile/daryl_codecraft) · [Email](mailto:daryltadss.workemail@gmail.com)
 
 <!---
-Tadxss/Tadxss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Tadxss/Tadxss is a special repository because its `README.md` (this file) appears on your GitHub profile.
 --->
