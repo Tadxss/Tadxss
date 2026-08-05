@@ -34,15 +34,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tadxss&show_icons=true&count_private=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tadxss&layout=compact&hide_border=true" />
-</p>
-
----
-
 ### 🔗 Profiles
 
 - [HackerRank](https://www.hackerrank.com/profile/daryl_codecraft)
